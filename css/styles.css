@@ -1,0 +1,19 @@
+@import url(reset.css);
+a[href="index.html"] {
+    text-align: center; color: aqua;
+}
+.center-image {
+    text-align: center;
+}
+.title {
+    text-align: center; color: blueviolet; font-size: 25px; font-weight: 300;
+}
+ul+li {
+    color:lightcoral; font-size: medium;
+}
+.text {
+    border: 10px solid darkmagenta; background-color: rebeccapurple; text-align: justify;
+}
+.img-footer {
+    text-align: center;
+}
